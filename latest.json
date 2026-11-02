@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "1.4.4",
+  "notes": "로그인 시 실행 및 Windows 시작프로그램 지원",
+  "assets": {
+    "macos-arm64": {
+      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.4.4/WindowMirror-macOS-1.4.4-arm64.zip",
+      "sha256": "2757f5c8a652464a22875a7ed28f62b3553b8271e70a13b5c9d37e15d4a8b2b3",
+      "size": 727123
+    },
+    "windows-x64": {
+      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.4.4/WindowMirror-Windows-1.4.4-x64.zip",
+      "sha256": "088aebc3fbdc3943049daf8c8cc3188259d3029b4c96be558ee25c8c7988a6fd",
+      "size": 66097672
+    }
+  }
+}
