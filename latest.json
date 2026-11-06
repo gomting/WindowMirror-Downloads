@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "1.5.0",
-  "notes": "메인 화면 미리보기, 앱별 위치·투명도 저장",
+  "version": "1.5.1",
+  "notes": "업데이트 설치 및 재시작 버튼",
   "assets": {
     "macos-arm64": {
-      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.5.0/WindowMirror-macOS-1.5.0-arm64.zip",
-      "sha256": "fe876a15c5b2ced2d6d7430d0f32968756de211c7a583bbbe2a0bd36e6bc65f2",
-      "size": 950840
+      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.5.1/WindowMirror-macOS-1.5.1-arm64.zip",
+      "sha256": "9a0076899954ad6287a65b094bc167d28e541e3ed251331e41a64d6eaf6906be",
+      "size": 958895
     },
     "windows-x64": {
-      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.5.0/WindowMirror-Windows-1.5.0-x64.zip",
-      "sha256": "0a23c6a544afde7c53c7e5a29113bd3d54e1bf024510aba3e438db7c5ec8447a",
-      "size": 66102924
+      "url": "https://github.com/gomting/WindowMirror-Downloads/releases/download/v1.5.1/WindowMirror-Windows-1.5.1-x64.zip",
+      "sha256": "eba989c1b0d38c4651cf27cd310f5ff0d38b4ddfe347df6888ad8ff1884a18da",
+      "size": 66103621
     }
   }
 }
